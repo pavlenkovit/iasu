@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scenes/Fixes/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+            <state relative-caret-position="-415">
+              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -130,12 +130,12 @@
       <workItem from="1579771930440" duration="3474000" />
       <workItem from="1579788252006" duration="1451000" />
       <workItem from="1579791741523" duration="18000" />
-      <workItem from="1581404530996" duration="6494000" />
+      <workItem from="1581404530996" duration="6858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11437000" />
+    <option name="totallyTimeSpent" value="11801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -255,15 +255,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scenes/Fixes/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        <state relative-caret-position="-415">
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
